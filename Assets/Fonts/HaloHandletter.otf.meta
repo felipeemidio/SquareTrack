@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f7c2f08b9b4f9c245ad73a79dd697e66
+timeCreated: 1498266378
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HaloHandletter
+  fontNames:
+  - HaloHandletter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
